@@ -89,8 +89,8 @@
 .navbar .navbar-brand {
     position: absolute;
     padding: 0;
-    width: 60px;
-    height: 60px;
+    width: 74px;
+    height: 74px;
     top: 0;
     left: 0;
 }
@@ -120,8 +120,8 @@
 
 @media (max-width: 991.98px) {
     .navbar .navbar-brand {
-        width: 126px;
-        height: 100px;
+        width: 55px;
+        height: 55px;
     }
 
     .navbar .navbar-nav .nav-link  {
